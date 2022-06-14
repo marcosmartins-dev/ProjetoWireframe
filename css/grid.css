@@ -1,0 +1,7 @@
+.container  {
+    width: 100%;
+    max-width: 1246px; /* esse valor é para esse projeto
+    especificamente -> são 1216px + 30px pelos paddings */
+    margin: 0 auto;
+    padding: 0px 15px;
+}
