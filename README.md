@@ -1,2 +1,5 @@
-# ProjetoWireframe
-1º projeto desenvolvido no curso CodeBoost - Utilizando HTML e CSS, o objetivo era construir uma estrutura responsiva, aplicando conhecimentos de Flexbox. 
+# Project - Wireframe
+
+This project it was the first challenge of CodeBoost course (https://codeboost.com.br). Basically we had to develop a wireframe of a web page. Using HTML and CSS, the goal was to build a responsive structure, applying flexbox concepts.
+
+Want to see more about this project? -> https://marcosmartinsdev.github.io/ProjetoWireframe/
